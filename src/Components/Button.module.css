@@ -1,0 +1,16 @@
+.loginBtn{
+    color: brown;
+    border-color: aqua;
+    background-color: blanchedalmond;
+    margin: 2px;
+    padding: 4px;
+    cursor: pointer;
+}
+.logoutBtn{
+    color: brown;
+    border-color: aqua;
+    background-color: blanchedalmond;
+    margin: 2px;
+    padding: 4px;
+    cursor: pointer;
+}
